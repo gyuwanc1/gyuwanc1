@@ -1,3 +1,1 @@
 # HI gyuwan`s Repository
-
-<g xmlns="http://www.w3.org/2000/svg" fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="215" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="310">HTML</text><text x="215" y="140" transform="scale(.1)" fill="#fff" textLength="310">HTML</text><text aria-hidden="true" x="605" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="310">USED</text><text x="605" y="140" transform="scale(.1)" fill="#fff" textLength="310">USED</text></g>
