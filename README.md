@@ -1,7 +1,5 @@
-# 
-<div align=center> 
-	![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=coding%20gyuwan&fontSize=90)	
-</div>
+# ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=coding%20gyuwan&fontSize=90)	
+
 	
 
 
