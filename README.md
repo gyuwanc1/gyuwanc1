@@ -1,4 +1,4 @@
-# ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=300&section=header&text=coding%20gyuwan&fontSize=90)	
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&animation=twinkling&height=300&section=header&text=coding%20gyuwan&fontSize=90)	
 
 	
 
